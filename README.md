@@ -33,7 +33,9 @@
 <h2 align="left" style="color:white;" >🔥 GitHub Stats</h2>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krypto-etox&layout=donut" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krypto-etox&layout=compact&langs_count=10&hide=html,css"/>
+  <!--
+  <img src="https://github-readme-stats.vercel.app/api/topilangs/?username=krypto-etox&layout=donut" alt="Top Langs" /> --> 
   <img src="https://github-readme-stats.vercel.app/api?username=krypto-etox&show_icons=true&theme=default" alt="Krypto's GitHub stats" />
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krypto-etox" alt="Krypto-Etox" /></p>
 </div>
